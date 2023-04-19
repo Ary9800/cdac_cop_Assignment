@@ -9,7 +9,7 @@ public class power {
 		int i, res=0;
 		for(i=1; i<=n; i++)
 		{
-			res=res+i;
+			res=res*i;
 		}
 		// TODO Auto-generated method stub
 System.out.println("sum of series="+res);
